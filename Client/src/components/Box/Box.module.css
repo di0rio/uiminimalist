@@ -1,3 +1,10 @@
+.main{
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+}
+
 .main img{
     margin-top: 2em;
 }
