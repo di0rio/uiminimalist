@@ -1,10 +1,17 @@
-.main{
-    display: flex;
+.main {
+  display: flex;
 
-    align-items: center;
-    justify-content: center;
+  align-items: center;
+  justify-content: center;
 }
 
-.main img{
-    margin-top: 2em;
+.main img {
+  margin-top: 2em;
+}
+
+.caixa {
+  padding: 40px 231.625px 40px 24px;
+
+  width: 248.25px;
+  height: 144px;
 }

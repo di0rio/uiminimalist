@@ -1,5 +1,6 @@
-import Box from "../../components/Box/Box";
 import style from "./Home.module.css";
+
+import Box from "../../components/Box/Box";
 
 const Home = () => {
   return (
