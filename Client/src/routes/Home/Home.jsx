@@ -1,6 +1,7 @@
 import style from "./Home.module.css";
 
 import Box from "../../components/Box/Box";
+import PieChart from "../../components/PieChart/PieChart";
 
 const Home = () => {
   return (
@@ -10,6 +11,9 @@ const Home = () => {
       </div>
       <div>
         <Box></Box>
+      </div>
+      <div>
+        <PieChart></PieChart>
       </div>
     </div>
   );
